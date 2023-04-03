@@ -1,0 +1,15 @@
+body{
+    background-size: cover;
+}
+.heading{
+    font-size: 25px;
+    margin: 0px;
+    width: 100%;
+}
+#note{
+    font-size: 15px;
+    color: black;
+}
+.button{
+    font-size: 25px;
+}
